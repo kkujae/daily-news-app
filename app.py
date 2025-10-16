@@ -14,9 +14,16 @@ app = FastAPI(
 
 
 CATEGORY_TITLES = {
-	"tech": "Tech",
-	"world": "World",
-	"business": "Business",
+	"ai": "🤖 AI & Machine Learning",
+	"robotics": "🤖 Robotics & Automation",
+	"quantum": "⚛️ Quantum Computing",
+	"autonomous": "🚗 Autonomous Vehicles",
+	"datacenter": "🏢 Data Centers & Cloud",
+	"emerging": "🚀 Emerging Technologies",
+	"space": "🌌 Space Technology",
+	"tech": "💻 General Tech",
+	"world": "🌍 World News",
+	"business": "📈 Business",
 }
 
 
